@@ -1,0 +1,111 @@
+.box{
+    background-color: red;
+    width: 10em;
+    height: 10em;
+   
+}
+
+.boxx{
+    background-color: gray;
+    width: 10em;
+    height: 10em;
+    margin-top: 10px;
+    border: 5px solid green;
+    margin-left: 100px;
+    
+}
+
+.a{
+ 
+        background-color: red;
+        width: 10em;
+        height: 10em;
+        display: block;
+       
+
+}
+h1{
+    background-color: bisque;
+}
+
+.p{
+    background-color: red;
+    width: 10em;
+    height: 10em;
+    display: inline-block;
+}
+
+.pp{
+    background-color: red;
+    width: 10em;
+    height: 10em;
+    display: inline;
+}
+.header{
+    background-color: blueviolet;
+    height: 5em;
+}
+.blog{
+    background-color: aquamarine;
+    height: 5em;
+    width: 50%;
+    float: left;
+    
+}
+.contact{
+    background-color: rgb(226, 186, 24);
+    height: 5em;
+    width: 50%;
+    float: right;
+}
+.wrapper{
+  
+    overflow: hidden;
+}
+
+
+
+.footer{
+    background-color: green;
+    height: 5em;
+}
+
+.item{
+    width: 33%;
+    height: 5em;
+    float: left;
+}
+.blog1{
+    background-color: aqua;
+    
+}
+.blog2{
+    background-color: rgb(184, 20, 132);
+}
+.blog3{
+    background-color: rgb(17, 242, 36);
+}
+.items{
+    width:25%;
+    height: 5em;
+    float: left;
+}
+.blog4{
+    background-color: rgb(0, 0, 0);
+}
+.blog5{
+    background-color: rgb(245, 32, 181);
+}
+.blog6{
+    background-color: rgb(134, 25, 228);
+}
+.blog7{
+    background-color: rgb(64, 16, 221);
+}
+
+
+
+
+
+
+
